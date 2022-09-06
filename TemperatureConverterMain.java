@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class TemperatureConverterMain here.
+ * Runs the method TemperatureConverter.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @SophiaBhatti
+ * @9/6/2022
  */
 public class TemperatureConverterMain
 {
