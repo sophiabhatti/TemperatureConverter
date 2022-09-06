@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class TemperatureConverter here.
+ * Converts Fahrenheit to Celcius
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @SophiaBhatti 
+ * @9/6/2022
  */
 public class TemperatureConverter
 {
@@ -15,8 +15,9 @@ public class TemperatureConverter
     * @return the temperature in degrees celsius
     */ 
    public double fToC(double fahr){
-       // TODO
-       return 0; // delete this line of code
+       int celc = 0;
+       celc = (fahr+32) * (5/9);
+       return celc; // delete this line of code
    }
        
        
